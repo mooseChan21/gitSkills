@@ -9,5 +9,7 @@ function testApp() {
     var bb  = 1;
     var nnn  = 1;
     var dddd  = 1;
+    console.log("12345678");
+
 
 }
