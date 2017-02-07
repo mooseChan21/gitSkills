@@ -4,6 +4,7 @@
 function testApp() {
 
     var aa  = 1;
+    var cc  = 1;
 
 
 }
