@@ -3,6 +3,7 @@
  */
 function testApp() {
 
+    var aa  = 1;
 
 
 }
