@@ -12,6 +12,8 @@ function testApp() {
 
     var bb  = 1;
 
+    var nnn  = 1;
+
 
 
 
