@@ -5,6 +5,10 @@
 .idea/modules.xml
 .idea/misc.xml
 .idea/sunApp.iml
+.idea/gitSkills.iml
+
+#other file
+.DS_Store
 
 
 
